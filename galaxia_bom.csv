@@ -1,0 +1,71 @@
+part,sku,vendor,quantity,material,first machine,second machine,third machine,fourth machine
+CS.04-C,CS.04,inhouse,1,,CNC Router
+0.375x0.875x0.280_Flanged_217-2733,217-2733,VEXPRO,1,https://www.vexrobotics.com/217-2733.html
+CS.05-C,CS.05,inhouse,1,,CNC Router
+Falcon500_Motor_Without_Shaft_217-6515,217-6515,VEXPRO,1,https://www.vexrobotics.com/217-6515.html
+Falcon500_Short_Shaft_217-6958,217-6958,VEXPRO,1,https://www.vexrobotics.com/217-6958.html
+8T_20DP_10T_C-C_Falcon500_Steel_Pinion_Gear_217-6915,217-6915,VEXPRO,1,https://www.vexrobotics.com/217-6915.html
+CS.06-C,CS.06,inhouse,1,,CNC Router
+CS.07-CT,CS.07,inhouse,1,,CNC Router,Tapping
+NEO550_Motor_REV-21-1651,REV-21-1651,REVROBOTICS,1,https://www.revrobotics.com/REV-21-1651/
+4668K105,4668K105,MCMASTER,52,https://www.mcmaster.com/4668K105/
+CS.08-P,CS.08,inhouse,48,,3D printer
+19T_20DP_375_Hex_Steel_Gear_am-0176,am-0176,ANDYMARK,1,https://www.andymark.com/search?q=am-0176
+19T_32DP_550_Pinion_Gear_am-0604,am-0604,ANDYMARK,1,https://www.andymark.com/search?q=am-0604
+60T_32DP_375_Hex_Aluminum_Gear_217-5863,217-5863,VEXPRO,1,https://www.vexrobotics.com/217-5863.html
+CS.11-P,CS.11,inhouse,1,,3D printer
+7806K64,7806K64,MCMASTER,1,https://www.mcmaster.com/7806K64/
+CS.12-P,CS.12,inhouse,1,,3D printer
+CS.13-L,CS.13,inhouse,2,,Lathe
+CS.14-P,CS.14,inhouse,13,,3D printer
+CS.01-C,CS.01,inhouse,1,,CNC Router
+CS.02-C,CS.02,inhouse,1,,CNC Router
+4668K144,4668K144,MCMASTER,2,https://www.mcmaster.com/4668K144/
+CS.10-O,CS.10,inhouse,1,,Outsourcing
+5972K211,5972K211,MCMASTER,1,https://www.mcmaster.com/5972K211/
+CS.15-C,CS.15,inhouse,1,,CNC Router
+MA3_Absolute_Encoder_am-2899,am-2899,ANDYMARK,1,https://www.andymark.com/search?q=am-2899
+CS.18-C,CS.18,inhouse,1,,CNC Router
+91290A121,91290A121,MCMASTER,13,https://www.mcmaster.com/91290A121/
+CS.19-P,CS.19,inhouse,1,,3D printer
+91292A021,91292A021,MCMASTER,4,https://www.mcmaster.com/91292A021/
+CS.20-P,CS.20,inhouse,1,,3D printer
+CS.21-LMT,CS.21,inhouse,1,,Lathe,Mill,Tapping
+CS.17-C,CS.17,inhouse,1,,CNC Router
+CS.22-L,CS.22,inhouse,2,,Lathe
+CS.09-CMT,CS.09,inhouse,1,,CNC Router,Mill,Tapping
+8x16x6mm_Radial_am-2095,am-2095,ANDYMARK,1,https://www.andymark.com/search?q=am-2095
+CS.24-O,CS.24,inhouse,1,,Outsourcing
+CS.23-L,CS.23,inhouse,1,,Lathe
+CS.25-LMT,CS.25,inhouse,1,,Lathe,Mill,Tapping
+2x2x10mm_Machine_Key_am-1121,am-1121,ANDYMARK,1,https://www.andymark.com/search?q=am-1121
+CS.26-LT,CS.26,inhouse,4,,Lathe,Tapping
+91294A234,91294A234,MCMASTER,7,https://www.mcmaster.com/91294A234/
+91280A224,91280A224,MCMASTER,1,https://www.mcmaster.com/91280A224/
+CS.37-C,CS.37,inhouse,1,,CNC Router
+0.500x1.125_x0.313_Flanged_217-2731,217-2731,VEXPRO,2,https://www.vexrobotics.com/217-2731.html
+CS.27-LC,CS.27,inhouse,1,,Lathe,CNC Router
+45T_1.5M_Versahub_3-1_Bevel_Gear_SDS,45T_1.5M_Versahub_3-1_Bevel_Gear_SDS,Swerve Drive Specialties,1,https://www.swervedrivespecialties.com/
+CS.29-LC,CS.29,inhouse,1,,Lathe,CNC Router
+CS.28-C,CS.28,inhouse,1,,CNC Router
+CS.30-L,CS.30,inhouse,1,,Lathe
+98541A119,98541A119,MCMASTER,2,https://www.mcmaster.com/98541A119/
+CS.34-L,CS.34,inhouse,2,,Lathe
+91290A274,91290A274,MCMASTER,2,https://www.mcmaster.com/91290A274/
+CS.35-LT,CS.35,inhouse,3,,Lathe,Tapping
+CS.36-GC,CS.36,inhouse,2,,Miter saw,CNC Router
+91290A196,91290A196,MCMASTER,2,https://www.mcmaster.com/91290A196/
+91290A232,91290A232,MCMASTER,3,https://www.mcmaster.com/91290A232/
+90576A104,90576A104,MCMASTER,8,https://www.mcmaster.com/90576A104/
+92010A116,92010A116,MCMASTER,4,https://www.mcmaster.com/92010A116/
+91290A115,91290A115,MCMASTER,2,https://www.mcmaster.com/91290A115/
+92196A267,92196A267,MCMASTER,8,https://www.mcmaster.com/92196A267/
+92949A194,92949A194,MCMASTER,1,https://www.mcmaster.com/92949A194/
+CS.38-O,CS.38,inhouse,2,,Outsourcing
+91390A099,91390A099,MCMASTER,1,https://www.mcmaster.com/91390A099/
+CS.39-P,CS.39,inhouse,1,,3D printer
+CS.33-P,CS.33,inhouse,1,,3D printer
+CS.32-P,CS.32,inhouse,1,,3D printer
+CS.31-P,CS.31,inhouse,1,,3D printer
+92095A210,92095A210,MCMASTER,4,https://www.mcmaster.com/92095A210/
+91290A198,91290A198,MCMASTER,6,https://www.mcmaster.com/91290A198/
